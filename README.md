@@ -37,6 +37,15 @@
   <h3>Bigdata:</h3>
   <h3>System and network:</h3>
   <h3>Operations:</h3>
+  <a href="https://www.docker.com/" target="_blank"> 
+   <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white">
+  </a>   
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white"/>
+  </a>
+  <a href="https://github.com/" target="_blank"> 
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"/>
+  </a>
 </p>
 
 
