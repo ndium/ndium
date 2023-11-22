@@ -24,7 +24,8 @@
 Happy coding! 🚀
 
 ___
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndium&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndium&layout=compact)](https://github.com/ndium)
+<p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=ndium&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
+
+<p align="center"><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=ndium&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
 
 
