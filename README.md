@@ -23,4 +23,6 @@
 
 Happy coding! 🚀
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ndium&show_icons=true&theme=gotham" alt="ndiumStats"/>
+
 
