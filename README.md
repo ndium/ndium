@@ -32,13 +32,15 @@
   <a href="https://www.php.net/" target="_blank">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
   </a>
+
+  <h3>Database:</h3>
+  <h3>Bigdata:</h3>
+  <h3>System and network:</h3>
+  <h3>Operations:</h3>
 </p>
 
 
-<h3>Database:</h3>
-<h3>Bigdata:</h3>
-<h3>System and network:</h3>
-<h3>Operations:</h3>
+
 
 ## Education 📚
 - **CESI engineering school**, Computer sciences engineering student
