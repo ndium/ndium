@@ -1,7 +1,7 @@
-# Hello 👋
+# Hello 👋 Work in progress ...
 
 ## About Me 🚀
-
+..
 
 
 <p>
@@ -35,8 +35,10 @@
 </p>
 
 
-Frameworks: 
-Tools: 
+Database: 
+Bigdata:
+System and network:
+Operations:
 
 ## Education 📚
 - **[CESI engineering school]**, Computer sciences engineering student
