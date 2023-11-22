@@ -34,6 +34,12 @@
   </a>
 
   <h3>Database:</h3>
+  <a href="https://www.mysql.com/" target="_blank"> 
+   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
+  </a>   
+  <a href="https://www.postgresql.org/" target="_blank"> 
+   <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-%2300f.svg?logo=postresql&logoColor=white">
+  </a>   
   <h3>Bigdata:</h3>
   <h3>System and network:</h3>
   <h3>Operations:</h3>
