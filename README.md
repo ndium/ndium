@@ -4,6 +4,7 @@
 
 ## Skills 💻
 
+<p>
 Programming Languages:  
 <a href="https://www.java.com" target="_blank"> 
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
@@ -18,7 +19,7 @@ Programming Languages:
   <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
 </a>
 
-Web: 
+<h1>Web:</h1>
 <a href="https://www.w3.org/html/" target="_blank"> 
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
 </a>
@@ -31,6 +32,7 @@ Web:
 <a href="https://www.php.net/" target="_blank">
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
 </a>
+</p>
 
 
 Frameworks: 
