@@ -18,7 +18,21 @@ Programming Languages:
   <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
 </a>
 
-Technologies: 
+Web: 
+<a href="https://www.w3.org/html/" target="_blank"> 
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white">
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black">
+</a>
+<a href="https://www.php.net/" target="_blank">
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white">
+</a>
+
+
 Frameworks: 
 Tools: 
 
