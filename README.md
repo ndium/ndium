@@ -13,7 +13,7 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
   </a>
   <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank">
-    <img alt="C#" src="https://img.shields.io/badge/C#-%2314354C.svg?logo=C#&logoColor=white">
+    <img alt="C#" src="https://img.shields.io/badge/CSharp-%2314354C.svg?logo=CSharp&logoColor=white">
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
