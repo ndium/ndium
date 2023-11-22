@@ -3,7 +3,10 @@
 ## About Me 🚀
 
 ## Skills 💻
-- Programming Languages: 
+- Programming Languages:
+<a href="https://www.java.com" target="_blank"> 
+<img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
+</a>
 - Technologies: 
 - Frameworks: 
 - Tools: 
