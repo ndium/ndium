@@ -5,7 +5,7 @@
 
 
 <p>
-  <h3>Programming Languages:</h3>
+  <h3>Programmation:</h3>
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
   </a>
@@ -35,10 +35,10 @@
 </p>
 
 
-Database: 
-Bigdata:
-System and network:
-Operations:
+<h3>Database:</h3>
+<h3>Bigdata:</h3>
+<h3>System and network:</h3>
+<h3>Operations:</h3>
 
 ## Education 📚
 - **CESI engineering school**, Computer sciences engineering student
