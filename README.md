@@ -4,11 +4,13 @@
 
 ## Skills 💻
 
-Programming Languages:
+Programming Languages:  
 <a href="https://www.java.com" target="_blank"> 
-<img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
 </a>
-
+<a href="https://www.python.org" target="_blank">
+  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white">
+</a>
 Technologies: 
 Frameworks: 
 Tools: 
