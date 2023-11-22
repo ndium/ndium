@@ -38,12 +38,6 @@
 Frameworks: 
 Tools: 
 
-## Notable Projects 🚧
-- **[Project Name 1]**: 
-- **[Project Name 2]**: 
-
-## Contributions 🤝
-
 ## Education 📚
 - **[CESI engineering school]**, Computer sciences engineering student
 
