@@ -38,7 +38,7 @@
    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white">
   </a>   
   <a href="https://www.postgresql.org/" target="_blank"> 
-   <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-%2300f.svg?logo=postresql&logoColor=white">
+   <img alt="Postgresql" src="https://img.shields.io/badge/Postgresql-%2307405e.svg?logo=postresql&logoColor=white">
   </a>   
   <h3>Bigdata:</h3>
   <h3>System and network:</h3>
