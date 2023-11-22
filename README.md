@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello 👋
 
-<!--
-**ndium/ndium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
 
-Here are some ideas to get you started:
+## Skills 💻
+- Programming Languages: 
+- Technologies: 
+- Frameworks: 
+- Tools: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Notable Projects 🚧
+- **[Project Name 1]**: 
+- **[Project Name 2]**: 
+
+## Contributions 🤝
+
+## Education 📚
+- **[CESI engineering school]**, Computer sciences engineering student
+
+## Contact 📬
+- [LinkedIn](link_to_your_linkedin_profile)
+- [Email](exemple@example.com)
+
+Happy coding! 🚀
+
+
