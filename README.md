@@ -5,7 +5,7 @@
 
 
 <p>
-  <h1>Programming Languages:</h1>
+  <h3>Programming Languages:</h3>
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white">
   </a>
@@ -19,7 +19,7 @@
     <img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-%23121011.svg?logo=gnu-bash&logoColor=white">
   </a>
   
-  <h1>Web:</h1>
+  <h3>Web:</h3>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img alt="HTML" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white">
   </a>
