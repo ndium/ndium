@@ -64,7 +64,6 @@
 - [LinkedIn](link_to_your_linkedin_profile)
 - [Email](exemple@example.com)
 
-Happy coding! 🚀
 
 ___
 <p align="center"><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=ndium&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
