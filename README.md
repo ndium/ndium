@@ -55,11 +55,6 @@
 </p>
 
 
-
-
-## Education 📚
-- **CESI engineering school**, Computer sciences engineering student
-
 ## Contact 📬
 - [LinkedIn](link_to_your_linkedin_profile)
 - [Email](exemple@example.com)
