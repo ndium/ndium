@@ -1,7 +1,7 @@
 # Hello 👋 Work in progress ...
 
 ## About Me 🚀
-..
+<p>I am a student in the fourth year of an engineering school majoring in computer science in France</p>
 
 
 <p>
