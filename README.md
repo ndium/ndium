@@ -1,7 +1,7 @@
 # Hello 👋
 
 # About Me 🚀
-I am a student in the fourth year of an engineering school majoring in computer science in France
+# I am a student in the fourth year of an engineering school majoring in computer science in France
 
 ### Programmation :
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
