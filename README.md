@@ -1,18 +1,18 @@
 # Hello 👋 Work in progress ...
 
-## About Me 🚀
+# About Me 🚀
 I am a student in the fourth year of an engineering school majoring in computer science in France
 
-# Programmation :
-# Web :
-# Database :
+### Programmation :
+### Web :
+### Database :
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-# Bigdata:
-# System and network:
-# Operations:
+### Bigdata:
+### System and network:
+### Operations:
 
 
 
