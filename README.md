@@ -1,4 +1,4 @@
-# Hello 👋 Work in progress ...
+# Hello 👋
 
 # About Me 🚀
 I am a student in the fourth year of an engineering school majoring in computer science in France
